@@ -67,28 +67,6 @@
 <param name="Колір плоду">червоний</param>
 <param name="Вага/кількість">0.1г</param>
 </offer>
-<offer id="9003" available="true">
-<url>https://vnesterenko-tech.github.io/ua/catalog/item/9003/</url>
-<price>34.0</price>
-<oldprice>42.0</oldprice>
-<currencyId>UAH</currencyId>
-<categoryId>4</categoryId>
-<categoryId>20</categoryId>
-<categoryId>21</categoryId>
-<picture>https://placehold.co/600x600/png?text=TEST+9003</picture>
-<vendor>Агродемо</vendor>
-<vendorCode>T-9003</vendorCode>
-<name>Огірок "Хрумкий козак F1" ТМ "Агродемо" 10шт</name>
-<description><![CDATA[Партенокарпічний гібрид для теплиць і відкритого ґрунту. Зеленці 10-12 см, без гіркоти.]]></description>
-<presence>Швидка відправка</presence>
-<param name="rate">5</param>
-<param name="section_id">4</param>
-<param name="artnumber">T-9003</param>
-<param name="Бренд">Агродемо</param>
-<param name="Сортність">гібрид F1</param>
-<param name="Запилюваність">партенокарпік</param>
-<param name="Вага/кількість">10шт</param>
-</offer>
 <offer id="9004" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9004/</url>
 <price>14.0</price>
@@ -209,25 +187,6 @@
 <param name="Вага">1кг</param>
 <param name="NPK">16-16-16</param>
 </offer>
-<offer id="9010" available="true">
-<url>https://vnesterenko-tech.github.io/ua/catalog/item/9010/</url>
-<price>145.0</price>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<picture>https://placehold.co/600x600/png?text=TEST+9010</picture>
-<vendor>Тестагро</vendor>
-<vendorCode>T-9010</vendorCode>
-<name>Карбамід (сечовина) N46 ТМ "Тестагро" 3кг</name>
-<description><![CDATA[Азотне добриво для підживлення на початку вегетації.]]></description>
-<presence>В наявності</presence>
-<param name="rate">5</param>
-<param name="section_id">8</param>
-<param name="artnumber">T-9010</param>
-<param name="Бренд">Тестагро</param>
-<param name="Форма випуску">гранули</param>
-<param name="Вага">3кг</param>
-<param name="Діюча речовина">азот 46%</param>
-</offer>
 <offer id="9011" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9011/</url>
 <price>65.0</price>
@@ -325,24 +284,6 @@
 <param name="Форма випуску">ампула</param>
 <param name="Об'єм">1мл</param>
 <param name="Шкідник">колорадський жук, попелиця</param>
-</offer>
-<offer id="9016" available="true">
-<url>https://vnesterenko-tech.github.io/ua/catalog/item/9016/</url>
-<price>42.0</price>
-<currencyId>UAH</currencyId>
-<categoryId>12</categoryId>
-<picture>https://placehold.co/600x600/png?text=TEST+9016</picture>
-<vendor>Захист-тест</vendor>
-<vendorCode>T-9016</vendorCode>
-<name>Інсектицид "Антимуха-Сад" ТМ "Захист-тест" 10г</name>
-<description><![CDATA[Гранули від мух і садових шкідників.]]></description>
-<presence>В наявності</presence>
-<param name="rate">5</param>
-<param name="section_id">12</param>
-<param name="artnumber">T-9016</param>
-<param name="Бренд">Захист-тест</param>
-<param name="Форма випуску">гранули</param>
-<param name="Вага">10г</param>
 </offer>
 <offer id="9017" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9017/</url>
