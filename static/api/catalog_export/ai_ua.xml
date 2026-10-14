@@ -47,6 +47,147 @@
 <param name="Вага/кількість">0.1г</param>
 <param name="Місце посадки">відкритий ґрунт</param>
 </offer>
+<offer id="9002" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9002/</url>
+<price>22.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<categoryId>22</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9002</picture>
+<vendor>Тестове поле</vendor>
+<vendorCode>T-9002</vendorCode>
+<name>Томат "Чері Рубінове намисто" ТМ "Тестове поле" 0.1г</name>
+<description><![CDATA[Ранній індетермінантний чері. Китиці по 20-30 плодів, вага плоду 15-20 г.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">3</param>
+<param name="artnumber">T-9002</param>
+<param name="Бренд">Тестове поле</param>
+<param name="Термін дозрівання">ранній</param>
+<param name="Колір плоду">червоний</param>
+<param name="Вага/кількість">0.1г</param>
+</offer>
+<offer id="9003" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9003/</url>
+<price>34.0</price>
+<oldprice>42.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<categoryId>20</categoryId>
+<categoryId>21</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9003</picture>
+<vendor>Агродемо</vendor>
+<vendorCode>T-9003</vendorCode>
+<name>Огірок "Хрумкий козак F1" ТМ "Агродемо" 10шт</name>
+<description><![CDATA[Партенокарпічний гібрид для теплиць і відкритого ґрунту. Зеленці 10-12 см, без гіркоти.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">4</param>
+<param name="artnumber">T-9003</param>
+<param name="Бренд">Агродемо</param>
+<param name="Сортність">гібрид F1</param>
+<param name="Запилюваність">партенокарпік</param>
+<param name="Вага/кількість">10шт</param>
+</offer>
+<offer id="9004" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9004/</url>
+<price>14.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9004</picture>
+<vendor>Агродемо</vendor>
+<vendorCode>T-9004</vendorCode>
+<name>Огірок "Дачний засолочний" ТМ "Агродемо" 1г</name>
+<description><![CDATA[Бджолозапильний сорт для засолювання, плоди з чорними шипами.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">4</param>
+<param name="artnumber">T-9004</param>
+<param name="Бренд">Агродемо</param>
+<param name="Запилюваність">бджолозапильний</param>
+<param name="Тип використання">Консервування</param>
+<param name="Вага/кількість">1г</param>
+</offer>
+<offer id="9005" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9005/</url>
+<price>19.9</price>
+<oldprice>25.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<categoryId>21</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9005</picture>
+<vendor>Весняний тест</vendor>
+<vendorCode>T-9005</vendorCode>
+<name>Перець "Помаранчевий місяць" ТМ "Весняний тест" 0.2г</name>
+<description><![CDATA[Солодкий перець кубоподібної форми, товщина стінки 8-10 мм.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">5</param>
+<param name="artnumber">T-9005</param>
+<param name="Бренд">Весняний тест</param>
+<param name="Смак плода">солодкий</param>
+<param name="Колір плоду">помаранчевий</param>
+<param name="Вага/кількість">0.2г</param>
+</offer>
+<offer id="9006" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9006/</url>
+<price>16.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9006</picture>
+<vendor>Весняний тест</vendor>
+<vendorCode>T-9006</vendorCode>
+<name>Перець гострий "Іскра степу" ТМ "Весняний тест" 0.1г</name>
+<description><![CDATA[Гострий перець для сушіння та консервації, кущ 50-60 см.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">5</param>
+<param name="artnumber">T-9006</param>
+<param name="Бренд">Весняний тест</param>
+<param name="Смак плода">гострий</param>
+<param name="Вага/кількість">0.1г</param>
+</offer>
+<offer id="9007" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9007/</url>
+<price>28.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<categoryId>22</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9007</picture>
+<vendor>Квітуча демо</vendor>
+<vendorCode>T-9007</vendorCode>
+<name>Петунія "Каскад рожевий" ТМ "Квітуча демо" 10шт</name>
+<description><![CDATA[Ампельна петунія, пагони до 1 м, рясне цвітіння до заморозків.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">6</param>
+<param name="artnumber">T-9007</param>
+<param name="Бренд">Квітуча демо</param>
+<param name="Колір">рожевий</param>
+<param name="Тип рослини">однорічна</param>
+<param name="Вага/кількість">10шт</param>
+</offer>
+<offer id="9008" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9008/</url>
+<price>12.0</price>
+<oldprice>15.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<categoryId>21</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9008</picture>
+<vendor>Квітуча демо</vendor>
+<vendorCode>T-9008</vendorCode>
+<name>Чорнобривці "Золота корона" ТМ "Квітуча демо" 0.5г</name>
+<description><![CDATA[Махрові чорнобривці висотою 30-40 см, відлякують шкідників на городі.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">6</param>
+<param name="artnumber">T-9008</param>
+<param name="Бренд">Квітуча демо</param>
+<param name="Колір">жовтий</param>
+<param name="Висота рослини">30-40см</param>
+<param name="Вага/кількість">0.5г</param>
+</offer>
 <offer id="9009" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9009/</url>
 <price>89.0</price>
@@ -68,6 +209,63 @@
 <param name="Вага">1кг</param>
 <param name="NPK">16-16-16</param>
 </offer>
+<offer id="9010" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9010/</url>
+<price>145.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9010</picture>
+<vendor>Тестагро</vendor>
+<vendorCode>T-9010</vendorCode>
+<name>Карбамід (сечовина) N46 ТМ "Тестагро" 3кг</name>
+<description><![CDATA[Азотне добриво для підживлення на початку вегетації.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">8</param>
+<param name="artnumber">T-9010</param>
+<param name="Бренд">Тестагро</param>
+<param name="Форма випуску">гранули</param>
+<param name="Вага">3кг</param>
+<param name="Діюча речовина">азот 46%</param>
+</offer>
+<offer id="9011" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9011/</url>
+<price>65.0</price>
+<oldprice>79.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<categoryId>21</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9011</picture>
+<vendor>Еко-демо</vendor>
+<vendorCode>T-9011</vendorCode>
+<name>Біогумус рідкий "Живий ґрунт" ТМ "Еко-демо" 1л</name>
+<description><![CDATA[Органічне добриво на основі вермикомпосту, покращує структуру ґрунту.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">9</param>
+<param name="artnumber">T-9011</param>
+<param name="Бренд">Еко-демо</param>
+<param name="Форма випуску">рідина</param>
+<param name="Об'єм">1л</param>
+</offer>
+<offer id="9012" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9012/</url>
+<price>120.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9012</picture>
+<vendor>Еко-демо</vendor>
+<vendorCode>T-9012</vendorCode>
+<name>Кінський перегній гранульований ТМ "Еко-демо" 5кг</name>
+<description><![CDATA[Гранульоване органічне добриво пролонгованої дії.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">9</param>
+<param name="artnumber">T-9012</param>
+<param name="Бренд">Еко-демо</param>
+<param name="Форма випуску">гранули</param>
+<param name="Вага">5кг</param>
+</offer>
 <offer id="9013" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9013/</url>
 <price>38.0</price>
@@ -88,6 +286,138 @@
 <param name="Форма випуску">концентрат</param>
 <param name="Об'єм">20мл</param>
 <param name="Культура">томати, картопля, яблуня</param>
+</offer>
+<offer id="9014" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9014/</url>
+<price>24.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9014</picture>
+<vendor>Захист-тест</vendor>
+<vendorCode>T-9014</vendorCode>
+<name>Фунгіцид "Сад-Профі" ТМ "Захист-тест" 3мл</name>
+<description><![CDATA[Системний фунгіцид проти борошнистої роси.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">11</param>
+<param name="artnumber">T-9014</param>
+<param name="Бренд">Захист-тест</param>
+<param name="Форма випуску">ампула</param>
+<param name="Об'єм">3мл</param>
+</offer>
+<offer id="9015" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9015/</url>
+<price>15.0</price>
+<oldprice>19.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>12</categoryId>
+<categoryId>21</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9015</picture>
+<vendor>Захист-тест</vendor>
+<vendorCode>T-9015</vendorCode>
+<name>Інсектицид "Жук-Стоп" ТМ "Захист-тест" 1мл</name>
+<description><![CDATA[Засіб від колорадського жука та попелиці, діє 2-3 тижні.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">12</param>
+<param name="artnumber">T-9015</param>
+<param name="Бренд">Захист-тест</param>
+<param name="Форма випуску">ампула</param>
+<param name="Об'єм">1мл</param>
+<param name="Шкідник">колорадський жук, попелиця</param>
+</offer>
+<offer id="9016" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9016/</url>
+<price>42.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>12</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9016</picture>
+<vendor>Захист-тест</vendor>
+<vendorCode>T-9016</vendorCode>
+<name>Інсектицид "Антимуха-Сад" ТМ "Захист-тест" 10г</name>
+<description><![CDATA[Гранули від мух і садових шкідників.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">12</param>
+<param name="artnumber">T-9016</param>
+<param name="Бренд">Захист-тест</param>
+<param name="Форма випуску">гранули</param>
+<param name="Вага">10г</param>
+</offer>
+<offer id="9017" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9017/</url>
+<price>349.0</price>
+<oldprice>420.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<categoryId>20</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9017</picture>
+<vendor>Інструмент-демо</vendor>
+<vendorCode>T-9017</vendorCode>
+<name>Секатор садовий "Тест-Різ 200" ТМ "Інструмент-демо"</name>
+<description><![CDATA[Секатор з лезами зі сталі SK5, гілки до 20 мм.]]></description>
+<presence>Швидка відправка</presence>
+<param name="rate">5</param>
+<param name="section_id">13</param>
+<param name="artnumber">T-9017</param>
+<param name="Бренд">Інструмент-демо</param>
+<param name="Матеріал леза">сталь SK5</param>
+<param name="Довжина">200мм</param>
+</offer>
+<offer id="9018" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9018/</url>
+<price>289.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9018</picture>
+<vendor>Інструмент-демо</vendor>
+<vendorCode>T-9018</vendorCode>
+<name>Обприскувач ручний 2л ТМ "Інструмент-демо"</name>
+<description><![CDATA[Помповий обприскувач з регульованою форсункою.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">13</param>
+<param name="artnumber">T-9018</param>
+<param name="Бренд">Інструмент-демо</param>
+<param name="Об'єм">2л</param>
+<param name="Тип">помповий</param>
+</offer>
+<offer id="9019" available="false">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9019/</url>
+<price>399.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9019</picture>
+<vendor>Інструмент-демо</vendor>
+<vendorCode>T-9019</vendorCode>
+<name>Лопата штикова загартована ТМ "Інструмент-демо"</name>
+<description><![CDATA[Штикова лопата з загартованої сталі, держак 120 см.]]></description>
+<presence>Немає в наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">13</param>
+<param name="artnumber">T-9019</param>
+<param name="Бренд">Інструмент-демо</param>
+<param name="Матеріал">сталь</param>
+<param name="Довжина держака">120см</param>
+</offer>
+<offer id="9020" available="false">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9020/</url>
+<price>210.0</price>
+<oldprice>250.0</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9020</picture>
+<vendor>Тестове поле</vendor>
+<vendorCode>T-9020</vendorCode>
+<name>Насіння газону "Смарагдовий килим" ТМ "Тестове поле" 1кг</name>
+<description><![CDATA[Суміш трав для газону, стійка до витоптування. Норма висіву 30-40 г/м².]]></description>
+<presence>Немає в наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">1</param>
+<param name="artnumber">T-9020</param>
+<param name="Бренд">Тестове поле</param>
+<param name="Вага">1кг</param>
+<param name="Норма висіву">30-40 г/м²</param>
 </offer>
 </offers>
 </shop>
