@@ -187,6 +187,25 @@
 <param name="Вага">1кг</param>
 <param name="NPK">16-16-16</param>
 </offer>
+<offer id="9010" available="true">
+<url>https://vnesterenko-tech.github.io/ua/catalog/item/9010/</url>
+<price>145.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<picture>https://placehold.co/600x600/png?text=TEST+9010</picture>
+<vendor>Тестагро</vendor>
+<vendorCode>T-9010</vendorCode>
+<name>Карбамід (сечовина) N46 ТМ "Тестагро" 3кг</name>
+<description><![CDATA[Азотне добриво для підживлення на початку вегетації.]]></description>
+<presence>В наявності</presence>
+<param name="rate">5</param>
+<param name="section_id">8</param>
+<param name="artnumber">T-9010</param>
+<param name="Бренд">Тестагро</param>
+<param name="Форма випуску">гранули</param>
+<param name="Вага">3кг</param>
+<param name="Діюча речовина">азот 46%</param>
+</offer>
 <offer id="9011" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9011/</url>
 <price>65.0</price>
