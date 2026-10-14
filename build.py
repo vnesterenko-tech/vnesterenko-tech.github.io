@@ -165,6 +165,9 @@ def build():
         (OUT / d).mkdir(parents=True)
     shutil.copy(ROOT / "style.css", OUT / "style.css")
     (OUT / ".nojekyll").write_text("")
+    # Статичні файли як є (тестові фіди тощо): static/api/catalog_export/ai_ua.xml -> /api/catalog_export/ai_ua.xml
+    if (ROOT / "static").is_dir():
+        shutil.copytree(ROOT / "static", OUT, dirs_exist_ok=True)
 
     for i, p in enumerate(products, start=1):
         (OUT / "img" / f"{p['slug']}.svg").write_text(pot_svg(p, i), encoding="utf-8")
