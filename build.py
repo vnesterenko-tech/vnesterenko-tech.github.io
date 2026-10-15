@@ -12,7 +12,7 @@ BASE_URL = "https://vnesterenko-tech.github.io"
 SHOP_NAME = "Опішнянська полиця"
 CURRENCY = "UAH"
 # Віджет Huntbot (тест). Вставляється в кінець <body> на всіх сторінках. Порожній рядок = без віджета.
-WIDGET_SCRIPT = '<script src="https://api.huntbot.ai/api/v1/widget/6a3e3f7f796b195ffa3a595e/widget.js" async></script>'
+WIDGET_SCRIPT = '<script src="https://api-test.huntbot.ai/api/v1/widget/6ad0de523ea60755508de512/widget.js" async></script>'
 ROOT = Path(__file__).parent
 OUT = ROOT / "_site"
 
