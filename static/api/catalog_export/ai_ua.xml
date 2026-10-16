@@ -305,45 +305,6 @@
 <param name="Форма випуску">ампула</param>
 <param name="Об'єм">3мл</param>
 </offer>
-<offer id="9015" available="true">
-<url>https://vnesterenko-tech.github.io/ua/catalog/item/9015/</url>
-<price>15.0</price>
-<oldprice>19.0</oldprice>
-<currencyId>UAH</currencyId>
-<categoryId>12</categoryId>
-<categoryId>21</categoryId>
-<picture>https://placehold.co/600x600/png?text=TEST+9015</picture>
-<vendor>Захист-тест</vendor>
-<vendorCode>T-9015</vendorCode>
-<name>Інсектицид "Жук-Стоп" ТМ "Захист-тест" 1мл</name>
-<description><![CDATA[Засіб від колорадського жука та попелиці, діє 2-3 тижні.]]></description>
-<presence>Швидка відправка</presence>
-<param name="rate">5</param>
-<param name="section_id">12</param>
-<param name="artnumber">T-9015</param>
-<param name="Бренд">Захист-тест</param>
-<param name="Форма випуску">ампула</param>
-<param name="Об'єм">1мл</param>
-<param name="Шкідник">колорадський жук, попелиця</param>
-</offer>
-<offer id="9016" available="true">
-<url>https://vnesterenko-tech.github.io/ua/catalog/item/9016/</url>
-<price>42.0</price>
-<currencyId>UAH</currencyId>
-<categoryId>12</categoryId>
-<picture>https://placehold.co/600x600/png?text=TEST+9016</picture>
-<vendor>Захист-тест</vendor>
-<vendorCode>T-9016</vendorCode>
-<name>Інсектицид "Антимуха-Сад" ТМ "Захист-тест" 10г</name>
-<description><![CDATA[Гранули від мух і садових шкідників.]]></description>
-<presence>В наявності</presence>
-<param name="rate">5</param>
-<param name="section_id">12</param>
-<param name="artnumber">T-9016</param>
-<param name="Бренд">Захист-тест</param>
-<param name="Форма випуску">гранули</param>
-<param name="Вага">10г</param>
-</offer>
 <offer id="9017" available="true">
 <url>https://vnesterenko-tech.github.io/ua/catalog/item/9017/</url>
 <price>349.0</price>
